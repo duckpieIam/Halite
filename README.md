@@ -1,0 +1,2 @@
+# Halite
+Elias halite bot
